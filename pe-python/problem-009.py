@@ -1,6 +1,8 @@
 # To time speed of the program.
 from time import time
 import numpy as np
+
+
 def pythogorean_trip_sum(sum_of_triplet):
     '''Find the pythogorean triplets that sum to a given number and give the product of each of these triplets.
     
