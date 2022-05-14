@@ -7,7 +7,7 @@ def nth_triangle_num(n):
             is the sum of the first 7 natural numbers.
 
     Args:
-        n - Index/cardinal of required traingle number.
+        n: Index/cardinal of required traingle number.
 
     Returns:
         nth triangle number.
