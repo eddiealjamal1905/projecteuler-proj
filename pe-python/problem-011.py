@@ -8,10 +8,10 @@ def row_products(int_grid_arr, num_adj, largest = 0):
             for columns instead of rows.
 
     Args:
-        int_grid_arr - the grid of integers as a string.
-        num_adj - the number of adjacent grid numbers in a row
+        int_grid_arr: the grid of integers as a string.
+        num_adj: the number of adjacent grid numbers in a row
              that we want to consider for the product.
-        largest - initial integer to compare largest product to
+        largest: initial integer to compare largest product to
        
     Returns:
         Largest which is the largest product along the rows of (num_adj) integers in the 

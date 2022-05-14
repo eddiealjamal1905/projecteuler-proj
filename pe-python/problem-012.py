@@ -45,7 +45,7 @@ def first_triangle_num_m_divisors(m):
             a given input and also give the index/cadinal of that triangle number and the number of its divisors.
         
     Args:
-        m - the given lower bound for the number of diviosors that the triangle number we are searching
+        m: the given lower bound for the number of diviosors that the triangle number we are searching
                 for is required to have.
     
     Returns:
