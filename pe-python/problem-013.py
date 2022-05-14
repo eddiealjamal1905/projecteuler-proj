@@ -4,8 +4,8 @@ from time import time
 def sum_string(str_nums, show_first_digits = 10):
     ''' Calculate the sum of digits of a number given as a string.
     Args:
-        str_nums - a string of numbers where each number is separated by a new line.
-        show_first_digits - the number of first digits to show in the exact sum.
+        str_nums: a string of numbers where each number is separated by a new line.
+        show_first_digits: the number of first digits to show in the exact sum.
        
        Returns: the exact sum of the numbers on different lines in (str_num) and the first (show_first_digits)
             of the exact sum
